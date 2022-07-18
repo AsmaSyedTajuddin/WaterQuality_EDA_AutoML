@@ -1,5 +1,8 @@
 # WaterQuality_EDA_AutoML
 
+![istockphoto-959023956-612x612](https://user-images.githubusercontent.com/100385953/179574271-27f9469d-ef3c-4eae-b486-fff81f8475fb.jpg)
+
+
 Water Quality
 
 Drinking water potability
